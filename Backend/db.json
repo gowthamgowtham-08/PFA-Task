@@ -1,0 +1,18 @@
+{
+  "expenses": [
+    {
+      "amount": 4000,
+      "category": "www",
+      "date": "2026-01-16",
+      "description": "dddd",
+      "id": "4514"
+    },
+    {
+      "id": "e081",
+      "amount": 500,
+      "category": "Food",
+      "date": "2025-01-01",
+      "description": "Lunch"
+    }
+  ]
+}
